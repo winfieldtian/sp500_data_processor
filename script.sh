@@ -1,5 +1,5 @@
 #!/bin/sh
-python process_test.py
+python process.py
 git add -A
 git commit -m "updated data"
 git push origin master
